@@ -1,2 +1,7 @@
 learning git branch
-create a git branch is slow and dif
+<<<<<<< HEAD
+create a git branch is quich and simple
+=======
+create a new branch is quich and simple
+
+>>>>>>> featurel
