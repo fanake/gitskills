@@ -1,0 +1,3 @@
+i create it on branch dev
+then i git add
+will i see it on master branch?
